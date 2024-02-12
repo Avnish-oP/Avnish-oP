@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avnish Kumar</h1>
-<h3 align="center">A passionate frontend developer from India having skills like reactJs, nodeJs, expressJs</h3>
+<h3 align="center">A passionate fullstack developer from India having skills like reactJs, nodeJs, expressJs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avnish-op&label=Profile%20views&color=0e75b6&style=flat" alt="avnish-op" /> </p>
 
